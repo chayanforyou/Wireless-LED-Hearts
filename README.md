@@ -93,7 +93,7 @@ You can find the Polling and Watchdog interrupt examples in the code section.
 
 ## Code
 
-https://github.com/chayanforyou/Wireless-LED-Hearts/blob/46e38a90f9299a54c37f18d5e904d7a9264b5d4d/WirelessIRQ.cpp
+https://github.com/chayanforyou/Wireless-LED-Hearts/blob/46e38a90f9299a54c37f18d5e904d7a9264b5d4d/WirelessIRQ.cpp#L1-L156
 
 ## Credits
 [AdiK](https://www.hackster.io/AdiK0)

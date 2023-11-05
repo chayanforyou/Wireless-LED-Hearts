@@ -93,11 +93,14 @@ You can find the Polling and Watchdog interrupt examples in the code section.
 
 ## Code
 
-https://github.com/chayanforyou/Wireless-LED-Hearts/blob/46e38a90f9299a54c37f18d5e904d7a9264b5d4d/WirelessIRQ.cpp#L1-L156
+#### Code for Tx using polling
+https://github.com/chayanforyou/Wireless-LED-Hearts/blob/0ec440ee756757771a73e36e09c561b91aca377a/WirelessPollingTx.cpp#L1-L157
 
-```python:WirelessIRQ.cpp
+#### Code for Rx using IRQ
+https://github.com/chayanforyou/Wireless-LED-Hearts/blob/0ec440ee756757771a73e36e09c561b91aca377a/WirelessLEDs.cpp#L1-L159
 
-```
+#### Code for Rx using polling
+https://github.com/chayanforyou/Wireless-LED-Hearts/blob/fe6702a8e65a86b81440c44a74b5ace447d956d6/WirelessIRQ.cpp#L1-L155
 
 ## Credits
 [AdiK](https://www.hackster.io/AdiK0)
